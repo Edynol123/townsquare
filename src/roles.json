@@ -1738,6 +1738,19 @@
     "reminders": [],
     "setup": false,
     "ability": "Once per day, you may choose to kill an alive neighbour, if your other alive neighbour agrees."
-  }
-]
-
+  },
+  {
+    "id": "candlemaker",
+    "image": "https://hosting.photobucket.com/images/c381/Edynol/Candlemaker.jpg",
+    "edition": "custom",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 51,
+    "otherNightReminder": "Each night*, choose a player. You learn the first character that targeted them that night.",
+    "reminders": [""],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Candlemaker",
+    "team": "townsfolk",
+    "ability": "The Candlemaker points to a player. Show them a character token for what character targeted them first that night."
+  },
